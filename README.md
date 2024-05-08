@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an undergrad at IIT Delhi in the Department of Computer Science and Engineering. Apart from being on an active spree of learning about new ideas and technologies, you might find me unwinding with a cup of coffee and a piece of paper to scribble ideas or drawings, wherever the mind takes me.
+
+Other than the perennial overload of assignments and evaluations, I am always available for a good chat!
+
 <!--
 **jahnabiroy/jahnabiroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
