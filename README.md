@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there!  <img src="https://github.com/jahnabiroy/jahnabiroy/blob/main/wave.gif" width="5%" height="5%"/>
 
 - 😄 I am an undergrad at IIT Delhi in the Department of Computer Science and Engineering. Apart from being on an active spree of learning about new ideas and technologies, you might find me unwinding with a cup of coffee and a piece of paper to scribble ideas or drawings, wherever the mind takes me.
 
@@ -7,7 +7,7 @@
 <!--
 **jahnabiroy/jahnabiroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
