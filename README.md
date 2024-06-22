@@ -4,6 +4,7 @@
 
 - 💬 Other than the perennial overload of assignments and evaluations, feel free to hit me up for a quick chat or a deep ethical discussion! Contact me at my [LinkedIn](https://www.linkedin.com/in/jahnabi-roy-828529275/).
 
+[![Jahnabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahnabiroy&theme=radical&hide=issues)](https://github.com/jahnabiroy/github-readme-stats)
 <!--
 **jahnabiroy/jahnabiroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
