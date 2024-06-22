@@ -4,11 +4,14 @@
 
 - 💬 Other than the perennial overload of assignments and evaluations, feel free to hit me up for a quick chat or a deep ethical discussion! Contact me at my [LinkedIn](https://www.linkedin.com/in/jahnabi-roy-828529275/).
 
-[![Jahnabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahnabiroy&theme=radical&hide=issues)](https://github.com/jahnabiroy/github-readme-stats)
+![Jahnabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahnabiroy&hide=issues&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnabiroy&layout=compact&theme=radical)
 <!--
 **jahnabiroy/jahnabiroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:👋
+
+rank_icon
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
